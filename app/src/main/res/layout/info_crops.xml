@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="360dp"
+    android:layout_height="600dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#070707"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingBottom="11dp"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    app:layout_constraintCircleRadius="50dp">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/crops_image1"
+        android:background="#fff"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/crops_name1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/crops"
+        android:textColor="#fff"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/info_text"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20sp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

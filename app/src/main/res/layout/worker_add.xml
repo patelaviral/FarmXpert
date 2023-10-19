@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/weatherback"
+    android:paddingLeft="21dp"
+    android:paddingRight="21dp"
+    android:paddingBottom="11dp"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apply for job"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_name"
+        android:background="@drawable/input_bg"
+        android:layout_marginTop="20dp"
+        android:padding="11dp"
+        android:inputType="text"
+        android:id="@+id/nm1"
+        android:textColor="@color/black"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_amount"
+        android:background="@drawable/input_bg"
+        android:padding="11dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/amt1"
+        android:inputType="number"
+        android:textColor="@color/black"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="11dp"
+        android:background="@drawable/input_bg"
+        android:hint="@string/enter_phone"
+        android:layout_marginTop="15dp"
+        android:id="@+id/phn1"
+        android:inputType="number"
+        android:textColor="@color/black"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apply"
+        android:background="@drawable/weatherback2"
+        android:layout_marginTop="15dp"
+        android:id="@+id/apply1"
+        android:layout_marginBottom="10dp"/>
+
+
+</LinearLayout>

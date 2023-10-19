@@ -1,0 +1,330 @@
+<resources>
+    <string name="app_name">Agriculture</string>
+    <string name="agri">AGRICULTURE</string>
+    <string name="log">LOGIN</string>
+    <string name="Reg">REGISTRATION</string>
+    <string name="username">Username</string>
+    <string name="ent_pass">Enter Password</string>
+    <string name="con_pass">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="new_reg">Register for new user</string>
+    <string name="alr_reg">Already have an account?</string>
+    <string name="number">Phone Number</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="add">Add</string>
+    <string name="Home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="profile">Profile</string>
+    <string name="idea">Idea</string>
+    <string name="notification">Notification</string>
+    <string name="search">Search</string>
+    <string name="crops">Crops</string>
+    <string name="workers">Workers</string>
+    <string name="rain">Rain status</string>
+    <string name="store">Store</string>
+    <string name="sensors">Sensor</string>
+    <string name="rent">Rent</string>
+    <string name="cropsimage">Crops Images</string>
+    <string name="wheat_info">
+        > Scientific Name: Triticum aestivum (common wheat)\n\n
+> Type: Wheat is a cereal grain that belongs to the grass family Poaceae.\n\n
+> Cultivation: It is one of the oldest cultivated crops and is grown in a wide range of climates worldwide.\n\n
+> Varieties:\n\n
+* Hard Wheat: High protein content, used primarily for bread-making.\n
+* Soft Wheat: Lower protein content, used for pastries and cakes.\n\n
+> Nutritional Content:\n\n
+* Rich in carbohydrates, providing a major source of energy.\n
+* Contains protein, dietary fiber, vitamins (especially B vitamins), and minerals (such as iron and magnesium).\n\n
+> Types of Wheat Products:\n\n
+* Whole Wheat: Made from the entire grain, including bran, germ, and endosperm.\n
+* White Flour: Made from the endosperm, with the bran and germ removed.\n
+* Wheat Germ: Highly nutritious part of the wheat kernel, rich in vitamins and minerals.\n\n
+> Culinary Uses:\n\n
+* Foundation of many staple foods like bread, pasta, noodles, and couscous.\n
+* Used in various baked goods like cakes, cookies, and pastries.\n
+* Can be processed into breakfast cereals and snacks.\n\n
+> Health Benefits:\n\n
+* Provides essential nutrients, including fiber for digestive health.\n
+* Good source of energy and important minerals like iron.\n
+* Some studies suggest whole wheat consumption may lower the risk of chronic diseases.\n\n
+> Environmental Impact:\n\n
+* Wheat is a major global crop and a staple food for billions of people.\n
+* It can be grown in diverse climates, contributing to food security.\n
+* Sustainable farming practices can reduce its environmental footprint.\n\n
+> Economic Importance:\n\n
+* Wheat is one of the most widely cultivated and traded crops globally.\n
+* It plays a crucial role in the economies of many countries.\n\n
+> Gluten:\n\n
+* Wheat contains gluten, a protein complex that gives dough its elasticity.\n
+* People with celiac disease or gluten sensitivity must avoid wheat and gluten-containing products.\n\n
+> Historical Significance:\n\n
+* Wheat has been a staple food for ancient civilizations like the Egyptians, Greeks, and Romans.\n
+* It played a pivotal role in the development of agriculture and settled societies.\n\n
+> Modern Cultivation:\n\n
+* Modern wheat varieties have been developed through selective breeding for specific traits.\n
+* High-yield varieties have significantly increased global wheat production.\n
+    </string>
+    <string name="paddy_info">
+        > Botanical Name: Oryza sativa\n\n
+> Type: Paddy rice is a type of grass (cereal grain) that belongs to the Oryza genus.\n\n
+> Cultivation: It is one of the most widely cultivated crops globally, especially in Asia.\n\n
+> Varieties:\n\n
+* Indica: Long-grain rice, typically grown in tropical regions. It is known for its separate, fluffy grains when cooked.\n
+* Japonica: Short-grain rice, often grown in temperate regions. It tends to be stickier when cooked, making it suitable for dishes like sushi.\n
+* Aromatic: Includes varieties like Basmati and Jasmine rice, known for their distinctive fragrances and flavors.\n\n
+> Growing Conditions:\n\n
+* Requires warm temperatures and abundant water, typically grown in flooded fields called paddies.\n
+* Both upland (dry) and lowland (wet) cultivation methods are used, depending on the availability of water.\n\n
+> Nutritional Content:\n\n
+* A good source of carbohydrates, providing a significant portion of daily energy needs.\n
+* Contains some protein, dietary fiber, and essential nutrients like thiamine and niacin.\n\n
+> Culinary Uses:\n\n
+* Staple food for a large portion of the world\'s population, particularly in Asia.\n
+* Can be boiled, steamed, fried, or ground into rice flour for various dishes.\n
+> Health Benefits:\n\n
+> Botanical Name: Oryza sativa\n\n
+> Type: Paddy rice is a type of grass (cereal grain) that belongs to the Oryza genus.\n\n
+> Cultivation: It is one of the most widely cultivated crops globally, especially in Asia.\n\n
+> Varieties:\n\n
+* Indica: Long-grain rice, typically grown in tropical regions. It is known for its separate, fluffy grains when cooked.\n
+* Japonica: Short-grain rice, often grown in temperate regions. It tends to be stickier when cooked, making it suitable for dishes like sushi.\n
+* Aromatic: Includes varieties like Basmati and Jasmine rice, known for their distinctive fragrances and flavors.\n\n
+> Growing Conditions:\n\n
+* Requires warm temperatures and abundant water, typically grown in flooded fields called paddies.\n
+* Both upland (dry) and lowland (wet) cultivation methods are used, depending on the availability of water.\n\n
+> Nutritional Content:\n\n
+* A good source of carbohydrates, providing a significant portion of daily energy needs.\n
+* Contains some protein, dietary fiber, and essential nutrients like thiamine and niacin.\n\n
+> Culinary Uses:\n\n
+* Staple food for a large portion of the world\'s population, particularly in Asia.\n
+* Can be boiled, steamed, fried, or ground into rice flour for various dishes.\n
+> Health Benefits:\n\n
+* Low in fat and cholesterol, making it a heart-healthy option.\n
+* Provides sustained energy due to its complex carbohydrate content.\n
+* Naturally gluten-free, suitable for individuals with gluten sensitivity.\n\n
+> Processing:\n\n
+* After harvest, paddy rice goes through milling to remove the husk, bran, and germ, resulting in white rice.\n
+* Brown rice retains the bran layer and is considered more nutritious.\n
+> Historical Significance:\n\n
+* Rice has been cultivated for thousands of years and has played a crucial role in the development of ancient civilizations.\n
+* It is deeply embedded in the cultural and culinary traditions of many societies.\n\n
+> Global Production:\n\n
+* Leading producers include China, India, Indonesia, Bangladesh, and Vietnam.\n
+.</string>
+    <string name="cotton_info">
+> Botanical Name: Gossypium spp.\n\n
+> Type: Cotton is a soft, fluffy fiber that grows around the seeds of plants belonging to the Gossypium genus.\n\n
+> Cultivation: It is a major cash crop and one of the most widely grown and important natural fibers in the world.\n\n
+> Varieties:\n\n
+* Upland Cotton (Gossypium hirsutum): The most commonly cultivated species, accounting for about 90% of global cotton production.\n
+* Pima or Extra-Long Staple Cotton (Gossypium barbadense): Known for its long and strong fibers, used in high-quality textiles.\n\n
+> Fiber Characteristics:\n\n
+* Soft, breathable, and absorbent, making it suitable for clothing and textiles.\n
+* The length and quality of the fibers (staple) vary depending on the variety.\n\n
+> Cultivation Conditions:\n\n
+* Requires warm temperatures, ample sunlight, and well-drained soil.\n
+* Grown in regions with a frost-free growing season.\n\n
+> Processing:\n\n
+* After harvest, cotton fibers are separated from the seeds through ginning.\n
+* The fibers are then cleaned, carded, and spun into yarn for further processing.\n\n
+> Uses:\n\n
+* Mainly used in the textile industry for producing fabrics for clothing, home furnishings, and industrial applications.\n
+* Cottonseed is also processed for its oil, which is used in cooking and various industrial products.\n\n
+> Environmental Impact:\n\n
+* Cotton cultivation can have significant environmental effects, including water usage, pesticide use, and soil degradation.\n
+* Organic cotton farming practices aim to reduce these impacts by using sustainable and eco-friendly methods.\n
+> Global Production:\n\n
+* Leading producers include China, India, United States, Pakistan, and Brazil.\n\n
+> Economic Importance:\n\n
+* Cotton is a major cash crop in many countries and contributes significantly to the global economy.\n
+* It plays a crucial role in the textile and fashion industries worldwide.\n\n
+> Historical Significance:\n\n
+* Cotton has been cultivated for thousands of years and played a key role in the economies of ancient civilizations like Egypt and India.\n\n
+> Modern Innovations:\n\n
+* Genetically modified (GM) cotton varieties, such as Bt cotton, have been developed to resist pests and reduce pesticide use.\n
+* Sustainable practices and organic cotton farming are gaining traction in the industry.\n
+    </string>
+    <string name="maize_info">
+> Scientific Name: Zea mays\n\n
+> Type: Maize is a cereal grain plant that belongs to the grass family Poaceae.\n\n
+> Origin: Native to the Americas, it was domesticated by indigenous peoples thousands of years ago.\n\n
+> Varieties:\n\n
+* Sweet Corn: Eaten fresh off the cob and is higher in sugar content.\n
+* Field Corn: Used for livestock feed, processed into various products like cornmeal, corn syrup, and ethanol.\n
+* Popcorn: A special variety that pops when heated.\n\n
+> Growing Conditions:\n\n
+* Requires warm temperatures, ample sunlight, and well-drained soil.\n
+        * Sensitive to frost and requires a growing season of about 60-100 days.\n\n
+> Parts Used:\n\n
+* Kernel: The seed of the maize plant, used for various culinary and industrial purposes.\n
+* Cob: The central core on which the kernels grow.\n\n
+> Nutritional Content:\n\n
+* Rich in carbohydrates, providing a significant portion of daily energy needs.\n
+* Contains fiber, vitamins (especially B vitamins like niacin and folate), and minerals (such as potassium and phosphorus).\n
+* Relatively low in fat.\n\n
+> Culinary Uses:\n\n
+* Versatile ingredient used in a wide range of dishes globally.\n
+* Can be boiled, steamed, grilled, or roasted. Ground into cornmeal for baking.\n
+* Corn products include cornbread, tortillas, polenta, and corn chips.\n
+> Health Benefits:\n\n
+* Good source of dietary fiber, supporting digestive health.\n
+        * Provides essential nutrients, especially in whole grain form.\n
+* Contains antioxidants like zeaxanthin and lutein, which are beneficial for eye health.\n\n
+> Economic Importance:\n\n
+* Maize is a major global crop and an essential staple in many countries.\n
+* It serves as a significant source of livelihood for millions of people.\n\n
+    </string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="enter_phone">Enter phone number</string>
+    <string name="FarmXpert">FarmXpert</string>
+    <string name="tagline">Your Farming Partner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_app">FarmXpert is an application developed for farmers and rural development of the society. This app help farmers to get all the necessary details and resources about their crops and farms. Also this app provides work to daily wage workers aiming for rural development of the society . FarmXpert is a true friend of farmer which will help them in all possible ways whether it is modern farming techniques , tools required ,  weather prediction , and protection of crops from grazing animals .</string>
+    <string name="language">Language</string>
+    <string name="choose">Choose your Language</string>
+    <string name="hin_lan">अपनी भाषा चुनें</string>
+    <string name="video">Video</string>
+    <string name="Finance">Finance</string>
+    <string name="disease">Crop Disease</string>
+    <string name="buy">Buy and Sell</string>
+    <string name="barley_info">
+        <br>> Botanical Name: Hordeum vulgare\n</br>\n
+        <br>> Type: Barley is a versatile annual cereal grain belonging to the grass family.\n</br>\n
+        <br>> Cultivation: It is widely cultivated in temperate regions around the world.\n</br>\n
+        <br>> Uses:\n</br>\n
+        <br><b>* Food: Used in various forms, including whole grain, flour, flakes, and pearl barley.\n</b></br>\n
+        <br><b>* Animal Feed: Important component in livestock and poultry diets.\n</b></br>\n
+        <br><b>* Beverage: Main ingredient in the production of malt for beer and certain distilled beverages.\n</b></br>\n
+        <br>> Nutritional Value:\n</br>\n
+        <br><b>* Rich in dietary fiber, vitamins, and minerals (especially manganese, selenium, and phosphorus).\n</b></br>\n
+        <br><b>* Contains important antioxidants and phytochemicals.\n</b></br>\n
+        <br>> Types:\n</br>\n
+        <br><b>* Hulled Barley: Whole grain with only the outermost hull removed.\n</b></br>\n
+        <br><b>* Pearl Barley: Polished to remove the bran layer, making it quicker to cook but less nutritious.\n</b></br>\n
+        <br>> Health Benefits:\n</br>\n
+        <br><b>* Supports heart health due to high fiber content.\n</b></br>\n
+        <br><b>* Regulates blood sugar levels.\n</b></br>\n
+        <br><b>* Aids in digestion and gut health.\n</b></br>\n
+        <br><b>* Provides essential nutrients for bone health.\n</b></br>\n
+        <br>> Culinary Uses:\n</br>\n
+        <br><b>* Common in soups, stews, salads, and pilafs.\n</b></br>\n
+        <br><b>* Used to make barley flour for baking.\n</b></br>\n
+
+    </string>
+    <string name="musturd_info">
+        > Botanical Name: Brassica spp. (Various species in the Brassicaceae family)\n\n
+> Type: Mustard is a flowering plant that belongs to the Brassicaceae family, which also includes cabbage, broccoli, and radish.\n\n
+> Cultivation: Grown in various parts of the world, mustard plants thrive in cool climates.\n\n
+> Parts Used:\n\n
+* Seeds: Used for making mustard condiments and oil.\n
+* Leaves: Edible and used in salads, stir-fries, and as a potherb.\n\n
+> Types of Mustard:\n\n
+* White/Yellow Mustard (Sinapis alba): Mild flavor, commonly used in American-style yellow mustard.\n
+* Brown Mustard (Brassica juncea): Spicier taste, used in Dijon mustard.\n
+* Black Mustard (Brassica nigra): Strong, pungent flavor, common in Indian cuisine.\n\n
+> Culinary Uses:\n\n
+* Mustard seeds can be ground into powder or mixed with liquid to create mustard paste or sauce.\n
+* Condiments like mustard sauce, Dijon mustard, and prepared yellow mustard are popular.\n
+* Mustard oil is used for cooking in some cuisines.\n\n
+> Health Benefits:\n\n
+* Rich in antioxidants, minerals, and phytochemicals.\n
+* May have anti-inflammatory properties.\n
+* Contains compounds that may promote heart health.\n\n
+> Traditional Medicine:\n\n
+* Used in traditional medicine for its potential health benefits.\n
+* Applied topically for conditions like muscle pain and rheumatism.\n\n
+> Cultural Significance:\n\n
+* Mustard has a long history of culinary use, dating back thousands of years.\n
+* Plays a significant role in the cuisines of many cultures around the world.\n
+> Industrial Uses:\n\n
+* Mustard oil is used in some industrial applications, such as in the production of biodiesel.\n
+> Environmental Impact:\n\n
+* Mustard plants can serve as a natural soil fumigant and may have some potential for biofumigation in agriculture.\n\n
+> Allergies and Precautions:\n\n
+* Some individuals may be allergic to mustard, and severe reactions are possible.\n
+* Mustard seeds contain natural compounds that can irritate the skin.\n\n
+> Culinary Combinations:\n\n
+* Often paired with meats, cheeses, pickles, and various sauces and dressings.\n
+* Commonly used in sandwiches, salads, marinades, and sauces.\n
+    </string>
+    <string name="legume_info">
+        > Botanical Family: Leguminosae (Fabaceae)\n\n
+> Definition: Legumes are a large family of flowering plants that produce fruits called pods containing seeds. These seeds are commonly referred to as pulses.\n\n
+> Examples of Common Legumes:\n\n
+* Chickpeas (garbanzo beans)\n
+* Lentils\n
+* Peas\n
+* Beans (e.g., kidney beans, black beans, pinto beans)\n
+* Soybeans\n
+* Peanuts (technically a legume, but often categorized as a nut)\n
+* Alfalfa\n\n
+> Nutritional Content:\n\n
+* High in protein, making them an important source of plant-based protein.\n
+* Rich in dietary fiber, vitamins (especially B vitamins), and minerals (such as iron and potassium).\n
+* Generally low in fat.\n\n
+> Culinary Uses:\n\n
+* Versatile ingredients used in a wide range of dishes globally.\n
+* Can be cooked and consumed as a main dish, side dish, or incorporated into soups, stews, salads, and various other recipes.\n
+* Used to make products like tofu and tempeh (from soybeans) or chickpea flour (besan).\n\n
+> Health Benefits:\n\n
+* Heart Health: Legumes are low in saturated fat and high in fiber, which may help reduce cholesterol levels.\n
+* Weight Management: The high fiber and protein content can promote a feeling of fullness.\n
+* Blood Sugar Regulation: The complex carbohydrates in legumes lead to a gradual rise in blood sugar levels.\n
+* Digestive Health: The fiber content supports a healthy digestive system.\n
+> Environmental Impact:\n\n
+* Nitrogen Fixation: Many legumes have a symbiotic relationship with nitrogen-fixing bacteria, enriching the soil with nitrogen, an essential nutrient for plant growth.\n
+* Sustainable Crop: Legumes have lower water and carbon footprints compared to many other crops.\n
+* Crop Rotation: Legumes are often used in crop rotation to improve soil health and fertility.\n\n
+> Allergies:\n\n
+* Some individuals may have allergies to specific legumes.\n
+* Peanuts, in particular, can trigger severe allergic reactions in some people.\n
+> Cultural Significance:\n\n
+* Legumes are staple foods in many cultures and cuisines around the world.\n
+* They play a central role in vegetarian and vegan diets.\n\n
+> Economic Importance:\n\n
+* Legumes are significant crops in global agriculture, both for human consumption and as animal feed.\n
+* Soybeans, for example, are a major cash crop worldwide.\n
+    </string>
+    <string name="gram_seeds_info">
+        > Scientific Name: Cicer arietinum\n\n
+> Common Names: Chickpeas, garbanzo beans\n\n
+> Type: Chickpeas are a type of legume belonging to the Fabaceae family.\n\n
+> Varieties:\n\n
+* Desi Chickpeas: Small, dark seeds with a rough coat. Commonly grown in South Asia, Africa, and parts of Europe.\n
+* Kabuli Chickpeas: Larger, cream-colored seeds with a smoother coat. Widely grown in Mediterranean, Middle Eastern, and North American regions.\n
+> Nutritional Value:\n\n
+* High in plant-based protein, fiber, vitamins (especially B vitamins), and minerals (such as iron, potassium, and magnesium).\n
+* Low in fat and cholesterol-free.\n\n
+> Culinary Uses:\n\n
+* Common ingredient in various cuisines around the world, especially in Indian, Middle Eastern, and Mediterranean dishes.\n
+* Used in salads, soups, stews, curries, and as a base for spreads like hummus.\n
+* Ground into flour (besan) for baking and cooking.\n
+
+        > Health Benefits:\n\n
+* Supports heart health due to low saturated fat content and high fiber.\n
+* Helps regulate blood sugar levels due to their low glycemic index.\n
+* Good source of essential nutrients for bone health.\n
+* May aid in weight management due to high protein and fiber content.\n\n
+> Cultural Significance:\n\n
+* Integral part of traditional cuisines, especially in India, the Middle East, and North Africa.\n
+        * Used in various festivals and celebrations.\n\n
+> Crop Growing Conditions:\n\n
+* Prefer cool growing seasons with well-drained soil.\n
+* Drought-tolerant but sensitive to frost.\n
+> Global Production:\n\n
+* Leading producers include India, Australia, Pakistan, Turkey, and Myanmar.\n\n
+> Environmental Impact:\n\n
+* Legumes like chickpeas can improve soil health due to their ability to fix nitrogen.\n
+* Relatively low water requirement compared to some other crops.\n\n
+> Allergies and Precautions:\n\n
+* While rare, some individuals may have allergies to chickpeas.\n
+* People with G6PD deficiency should consume chickpeas in moderation due to their glucose-6-phosphate dehydrogenase enzyme deficiency.\n
+    </string>
+</resources>
