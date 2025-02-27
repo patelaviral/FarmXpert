@@ -26,3 +26,6 @@ FarmXpert is an Android-based smart farming application designed to assist farme
 *🔹 Integrate multilingual support for better accessibility 🌍
 *🔹 Implement a community discussion forum for farmers 💬
 *🔹 Enhance UI with dark mode 🌙
+
+# Youtube link for app
+https://youtu.be/hUqBCyb4ng8
